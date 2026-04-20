@@ -274,6 +274,10 @@ Core thesis:   Beijing's coercive toolkit is exhibiting diminishing returns,
                most structurally fragile window this equilibrium has faced.
 Buzzword audit: structural × 3 / paradox × 2 / deadlock × 1  (all within caps)
 ─────────────────────────────────────────────
+
+<img width="1729" height="21335" alt="5ec19e17bab8791c57f86272c15ea577" src="https://github.com/user-attachments/assets/27564e85-59ee-4c70-8ac7-982fc0aacb08" />
+<img width="861" height="463" alt="c65296340e12b40b71d5397687ffcfac" src="https://github.com/user-attachments/assets/a5c8e6e4-015f-4447-a32a-a321b548356e" />
+
 ```
 
 ---
@@ -288,7 +292,7 @@ The planner generates the modular research plan. Any OpenAI-compatible API works
 |----------|---------|-------------|
 | `PLANNER_API_KEY` | — | Primary key |
 | `PLANNER_API_KEY_BACKUP` | — | Auto-switch on 402 (insufficient balance) |
-| `PLANNER_BASE_URL` | `https://xinghuapi.com/v1` | API base URL |
+| `PLANNER_BASE_URL` |  | API base URL |
 | `PLANNER_MODEL` | `gemini-2.5-flash` | Model name as recognized by the API |
 
 **Recommended models** (all tested via xinghuapi proxy):
