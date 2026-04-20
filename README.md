@@ -321,7 +321,7 @@ Used by Claude Code for the orchestrator and all subagents (Sonnet, Opus, Haiku)
 
 ```env
 ANTHROPIC_API_KEY=sk-...
-ANTHROPIC_BASE_URL=https://xinghuapi.com   # omit for direct Anthropic access
+ANTHROPIC_BASE_URL=   # omit for direct Anthropic access
 ANTHROPIC_API_KEY_BACKUP=sk-...            # for manual key rotation on 402
 ```
 
