@@ -480,4 +480,5 @@ Built on [Claude Code](https://claude.ai/code) by Anthropic. Research architectu
 ## Buy me a coffee
 patreon: My parents,by now
 buy_me_a_coffee: aifadian https://ifdian.net/a/20240610ldx   or  UnionPay:6217900400000985165
-<img width="828" height="1124" alt="fccb99bb240aa419e1bb060bc3da3920" src="https://github.com/user-attachments/assets/46cdbc60-b007-4144-9113-949e6cae184b" />
+Alipay
+<img width="1265" height="1362" alt="f4664390d6f980dc2d5049516acf3418" src="https://github.com/user-attachments/assets/089298f9-a5f3-48dd-bc57-f1550b350a6a" />
