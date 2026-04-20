@@ -474,3 +474,10 @@ MIT License. See [LICENSE](LICENSE).
 ## Acknowledgements
 
 Built on [Claude Code](https://claude.ai/code) by Anthropic. Research architecture inspired by Anthropic's multi-agent research system. Web search powered by [Tavily](https://tavily.com).
+
+---
+
+## Buy me a coffee
+patreon: My parents,by now
+buy_me_a_coffee: aifadian https://ifdian.net/a/20240610ldx   or  UnionPay:6217900400000985165
+<img width="828" height="1124" alt="fccb99bb240aa419e1bb060bc3da3920" src="https://github.com/user-attachments/assets/46cdbc60-b007-4144-9113-949e6cae184b" />
