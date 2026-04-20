@@ -275,7 +275,10 @@ Core thesis:   Beijing's coercive toolkit is exhibiting diminishing returns,
 Buzzword audit: structural × 3 / paradox × 2 / deadlock × 1  (all within caps)
 ─────────────────────────────────────────────
 ```
-<img width="1729" height="21335" alt="5ec19e17bab8791c57f86272c15ea577" src="https://github.com/user-attachments/assets/8c96aa0e-015e-4fa2-9b98-3c951ee247ed" />
+<img width="1279" height="1706" alt="395b696c67bb572129811dacead013a7" src="https://github.com/user-attachments/assets/3adae0ee-21db-47fd-b9b4-3767be7b12b6" />
+
+<img width="1706" height="1279" alt="eb068782727b7541af0f531440cc46c8" src="https://github.com/user-attachments/assets/46f04bae-7b3a-40d4-9f19-cba054d654b9" />
+
 
 <img width="861" height="463" alt="c65296340e12b40b71d5397687ffcfac" src="https://github.com/user-attachments/assets/62562766-4751-4042-af7f-2e129f21ecf2" />
 
